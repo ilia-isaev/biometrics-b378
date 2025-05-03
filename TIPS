@@ -1,0 +1,6 @@
+			Biometric incits378 tool.
+
+## Prepare
+autoreconf -i
+./autogen.sh
+
